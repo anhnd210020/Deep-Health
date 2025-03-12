@@ -16,16 +16,3 @@ Experiment environment: <br>
       &#160; &#160; &#160; &#160;IDE: PyCharm <br>
       &#160; &#160; &#160; &#160;Language: Python 3.6 <br>
       &#160; &#160; &#160; &#160;Tensorflow: 1.14.0 <br>
-
-## Paper citation
-
-If you use the AWE dataset or found it helpful, please cite the following paper. We are really appreciate your citation. <br>
-@article{zhang2020deephealth,<br>
-  &#160; &#160; &#160; &#160;title={{DeepHealth}: A self-attention based method for instant intelligent predictive maintenance in industrial {Internet} of things},<br>
-  &#160; &#160; &#160; &#160;journal={IEEE Transactions on Industrial Informatics},<br>
-  &#160; &#160; &#160; &#160;year={Early Access, Oct. 2020, doi: 10.1109/TII.2020.3029551},<br>
-  &#160; &#160; &#160; &#160;publisher={IEEE}<br>
-}<br>
-
-<br>
-Lastly, we really appreciate the joint efforts of our partner company (including the engineers of the factory) who provide sufficient time and fire-new equipment for the destructive experiment. 
